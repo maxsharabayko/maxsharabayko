@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Maxim Sharabayko, PhD, an experienced software developer with 7+ years of experience in video codec development (MPEG-2, H.264/AVC, H.265/HEVC) and 5+ years of experience in network protocols.
+I'm Maxim Sharabayko, PhD, Principal Research Engineer at Haivision. I've got a 7+ years of experience in video codec development (MPEG-2, H.264/AVC, H.265/HEVC) and 5+ years of experience in network protocols.
 
 ---
 ### Currently I am Working on...
